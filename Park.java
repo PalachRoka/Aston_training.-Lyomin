@@ -1,6 +1,6 @@
 public class Park {
 
-    private class Attraction {
+    public class Attraction {
         private String nameAttraction;
         private String workTime;
         private int price;
@@ -11,3 +11,4 @@ public class Park {
         }
 
     }}
+

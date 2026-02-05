@@ -1,6 +1,4 @@
 public class Park {
-    private String parkName;
-
 
     private class Attraction {
         private String nameAttraction;
@@ -11,4 +9,5 @@ public class Park {
             this.workTime = workTime;
             this.price = price;
         }
+
     }}
